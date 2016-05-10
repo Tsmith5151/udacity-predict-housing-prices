@@ -1,9 +1,8 @@
 # Boston Housing Price Prediction
 
-<p align ="center>
+<p align ="center">
 <img src = "http://media.bizj.us/view/img/2122231/house-for-sale*750xx1200-675-0-63.jpg">
 </p>
-
 
 #### Project Description
 
