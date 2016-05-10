@@ -1,5 +1,10 @@
 # Boston Housing Price Prediction
 
+<p align ="center>
+<img src = "http://media.bizj.us/view/img/2122231/house-for-sale*750xx1200-675-0-63.jpg">
+</p>
+
+
 #### Project Description
 
 - The Boston housing market is highly competitive, and the goal is to be one of the best real estate agents in the area. To compete in the real estate market, a few basic machine learning concepts are applied in order to assist a client with finding the best selling price for their home. The Boston Housing dataset which contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. The objective is to build an optimal model based on a statistical analysis with the tools available and then utilize this model to estimate the best selling price for the client's home. Additional information on the Boston Housing dataset can be found [`here`](https://archive.ics.uci.edu/ml/datasets/Housing). The source code developed for this project can be found in the ipython notebook: [`boston_housing.ipynb`](https://github.com/Tsmith5151/Boston-Housing-Price-Prediction-/blob/master/boston_housing.ipynb)
