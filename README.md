@@ -43,11 +43,9 @@ def explore_city_data(city_data):
 
 ####  What is the best selling price for your client?s home? How does this selling price compare to the statistics you calculated on the dataset? 
 
-- Once the model has been trained and tested using the methods discussed above, we can now predict the housing price on the out-of-sample data provided by the client as shown in the table below. Statistical analysis performed on the dataset indicates the median home value is `$21,200` and the standard deviation is `$9,190`. Using the out-of-sample data, the model is predicting the average price of the home to be `$21,629`. Being the predicted value falls within one standard deviation of the mean, therefore the predication is considered to be reasonable. 
+- Once the model has been trained and tested using the methods discussed above, we can now predict the housing price on the out-of-sample data provided by the client as shown in the table below. Statistical analysis performed on the dataset indicates the median home value is `$21,200` and the standard deviation is `$9,190`. Using the out-of-sample data, the model is predicting the average price of the home to be `$21,629`. Being the predicted value falls within one standard deviation of the mean, therefore the predication is considered to be reasonable. See the `boston_housing.ipynb` for the source code and further analysis. 
 
-```python
-    pd.DataFrame(zip(boston.feature_names, x), columns = ['Features', 'Client_Features'])
-```
+
 |Features | Sample      |
 | --------| ----------- |
 | CRIM    | 11.95       |
